@@ -1,1 +1,1 @@
-# bdm_lab6
+# BDM Spark Word Count Example
